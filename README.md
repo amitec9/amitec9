@@ -65,7 +65,7 @@ Stripe | TaxJar | Zendesk | AlgoliaSearch | Google OAuth | Google Calendar API |
 
 ## 🧰 Projects
 
-### **GenAI Knowledge Chatbot (RAG-Based)**  
+### ** Chatbot (RAG-Based)**  
 *Python, FastAPI, LangChain, Pinecone, OpenAI*  
 - Built end-to-end RAG pipeline for document ingestion and semantic search.  
 - Implemented document chunking, embeddings generation, and vector storage.  
