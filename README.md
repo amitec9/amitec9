@@ -34,7 +34,7 @@ MongoDB | PostgreSQL | MySQL | Pinecone | FAISS | ChromaDB | Redis
 AWS (EC2, S3, RDS, SES, API Gateway) | Docker | CI/CD Pipelines | Linux  
 
 ### Testing & Real-time
-Mocha | Jest | Chai | WebSocket.IO  
+Mocha  | WebSocket.IO  
 
 ### Integrations
 Stripe | TaxJar | Zendesk | AlgoliaSearch | Google OAuth | Google Calendar API | Firebase | Twilio | ChatGPT  
@@ -61,27 +61,8 @@ Stripe | TaxJar | Zendesk | AlgoliaSearch | Google OAuth | Google Calendar API |
 - Developed backend systems and IoT microservices using Node.js and MongoDB.  
 - Deployed cloud solutions on AWS (EC2, S3, RDS).  
 
----
 
-## 🧰 Projects
 
-### ** Chatbot (RAG-Based)**  
-*Python, FastAPI, LangChain, Pinecone, OpenAI*  
-- Built end-to-end RAG pipeline for document ingestion and semantic search.  
-- Implemented document chunking, embeddings generation, and vector storage.  
-- Designed FastAPI-based MCP server for AI tools and context-aware endpoints.  
-
-### **MCP-Compliant AI Backend Service**  
-*Python, FastAPI, LangChain, OpenAI*  
-- Developed MCP-compliant backend server enabling tool-calling, structured context, and multi-step reasoning workflows.  
-- Implemented authentication, rate limiting, and logging for LLM endpoints.  
-
-### **Education Platforms & Other Backend Work**  
-- MatchED Community & Admin: Node.js + SQL + WebSocket.IO + Stripe + ChatGPT | [Website](https://matchedcommunity.com)  
-- GritLeadership: Node.js (TypeScript) + PostgreSQL + Google OAuth + ChatGPT | [Website](https://app.gritleadershipea.com)  
-- Golf Booking Platform, Car Rental, Private Chef Booking, Healthcare Platforms  
-
----
 
 ## 🎓 Education
 - **Postgraduate Diploma – Internet of Things**  
@@ -89,10 +70,6 @@ Stripe | TaxJar | Zendesk | AlgoliaSearch | Google OAuth | Google Calendar API |
 - **Bachelor of Engineering – Electronics & Communication**  
   OIST, Bhopal | Jun 2015 – Jun 2018 | First Division with Honours (75%)  
 
----
-
-## 💬 Languages
-English | Hindi  
 
 ---
 
