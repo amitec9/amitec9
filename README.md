@@ -1,5 +1,5 @@
 # 👋 Hello, I’m Amit Kumar
-- 🔭 Currently working on **WebAppMate**.  
+- 🔭 Currently working on **TCS**.  
 - ⚡ Fun fact: I spend almost **6 hours listening to music daily**.  
 
 ## 📊 GitHub Stats
