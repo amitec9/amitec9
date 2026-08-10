@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Amit Kumar
 
-### 🚀 Backend Engineer | GenAI & LLM Developer | Cloud & Distributed Systems
-
+### 🚀 Backend Engineer | GenAI & LLM Developer 
 I'm a software engineer currently working at **TCS**, passionate about building scalable backend systems, cloud-native applications, and intelligent AI-powered solutions.
 
 I work primarily with **Node.js, JavaScript, TypeScript, and Python**, with a strong focus on **REST APIs, microservices, event-driven architectures, AWS, and Generative AI/LLM applications**.
